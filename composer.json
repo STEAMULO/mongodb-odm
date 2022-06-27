@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/mongodb-odm",
+    "name": "steamulo/mongodb-odm",
     "type": "library",
     "description": "PHP Doctrine MongoDB Object Document Mapper (ODM) provides transparent persistence for PHP objects to MongoDB.",
     "keywords": [
