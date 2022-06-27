@@ -67,10 +67,13 @@
             "TestDocuments\\" :"tests/Doctrine/ODM/MongoDB/Tests/Mapping/Driver/fixtures"
         }
     },
+    "replace": {
+        "doctrine/mongodb-odm": "*"
+    },
     "config": {
         "sort-packages": true,
         "allow-plugins": {
             "dealerdirect/phpcodesniffer-composer-installer": true
         }
     }
-}
+},
